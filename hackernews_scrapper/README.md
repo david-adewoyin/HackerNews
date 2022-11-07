@@ -25,7 +25,7 @@ In total:**3 months** of posts comprising
  database = 'hackernews'
 ```
 3. Finally run the crawler  
-```crapy crawl posts --log=INFO ```
+```scrapy crawl posts --log=INFO ```
 
 ### Data Parsed:
 
